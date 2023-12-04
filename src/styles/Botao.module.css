@@ -1,0 +1,18 @@
+.btn{
+    text-decoration: none;
+    background-color: rgb(119, 100, 119);
+    color: white;
+    padding: .7em 1.2em;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: .4s;
+    text-align: center;
+    
+
+}
+
+.btn:hover{
+    background-color:plum;
+    color: #222;
+    
+}

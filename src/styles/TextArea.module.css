@@ -1,0 +1,16 @@
+.textarea{
+    flex-direction: column;
+    justify-content: center;
+    width:  100%;
+    margin-left: 0px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: black;
+    font-family: Helvetica;
+    
+    
+}
+

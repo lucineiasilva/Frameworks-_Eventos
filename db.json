@@ -1,0 +1,130 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "titulo": "Conferência de Bioinformática Avançada",
+      "descricao": "Uma conferência dedicada a avanços recentes na pesquisa de bioinformática.",
+      "inicio": "15/11/2023",
+      "termino": "17/11/2023",
+      "local": "Centro de Convenções Bioinformáticas",
+      "imagem": "imagem1.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Workshop de Bioinformática Molecular",
+      "descricao": "Um workshop prático para entusiastas da bioinformática molecular.",
+      "inicio": "05/12/2023",
+      "termino": "07/12/2023",
+      "local": "Laboratório de Bioinformática da Universidade",
+      "imagem": "imagem2.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Seminário sobre Bioinformática Sustentável",
+      "descricao": "Explorando métodos sustentáveis na pesquisa de bioinformática.",
+      "inicio": "10/02/2024",
+      "termino": "12/02/2024",
+      "local": "Centro de Conferências Verde",
+      "imagem": "imagem3.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Simposium de Bioinformática Analítica",
+      "descricao": "Um evento para discutir as mais recentes técnicas em bioinformática analítica.",
+      "inicio": "20/04/2024",
+      "termino": "22/04/2024",
+      "local": "Centro de Convenções Analíticas",
+      "imagem": "imagem4.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Curso de Bioinformática Estrutural",
+      "descricao": "Um curso intensivo sobre princípios da bioinformática estrutural.",
+      "inicio": "10/05/2024",
+      "termino": "15/05/2024",
+      "local": "Universidade de Bioinformática",
+      "imagem": "imagem5.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Encontro de Bioinformáticos Jovens",
+      "descricao": "Um encontro para jovens cientistas discutirem suas pesquisas em bioinformática.",
+      "inicio": "05/06/2024",
+      "termino": "07/06/2024",
+      "local": "Sala de Conferências Juvenis",
+      "imagem": "imagem6.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Conferência de Bioinformática Avançada",
+      "descricao": "Uma conferência dedicada a avanços recentes na pesquisa de bioinformática.",
+      "inicio": "15/11/2023",
+      "termino": "17/11/2023",
+      "local": "Centro de Convenções Bioinformáticas",
+      "imagem": "imagem1.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Workshop de Bioinformática Molecular",
+      "descricao": "Um workshop prático para entusiastas da bioinformática molecular.",
+      "inicio": "05/12/2023",
+      "termino": "07/12/2023",
+      "local": "Laboratório de Bioinformática da Universidade",
+      "imagem": "imagem2.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Seminário sobre Bioinformática Sustentável",
+      "descricao": "Explorando métodos sustentáveis na pesquisa de bioinformática.",
+      "inicio": "10/02/2024",
+      "termino": "12/02/2024",
+      "local": "Centro de Conferências Verde",
+      "imagem": "imagem3.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Simposium de Bioinformática Analítica",
+      "descricao": "Um evento para discutir as mais recentes técnicas em bioinformática analítica.",
+      "inicio": "20/04/2024",
+      "termino": "22/04/2024",
+      "local": "Centro de Convenções Analíticas",
+      "imagem": "imagem4.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "Curso de Bioinformática Estrutural",
+      "descricao": "Um curso intensivo sobre princípios da bioinformática estrutural.",
+      "inicio": "10/05/2024",
+      "termino": "15/05/2024",
+      "local": "Universidade de Bioinformática",
+      "imagem": "imagem5.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "Encontro de Bioinformáticos Jovens",
+      "descricao": "Um encontro para jovens cientistas discutirem suas pesquisas em bioinformática.",
+      "inicio": "05/06/2024",
+      "termino": "07/06/2024",
+      "local": "Sala de Conferências Juvenis",
+      "imagem": "imagem6.jpg"
+    },
+    {
+      "titulo": " enpex",
+      "descricao": "",
+      "imagem": "",
+      "inicio": "",
+      "termino": "",
+      "local": "LabCasa",
+      "id": 13
+    },
+    {
+      "titulo": " ",
+      "descricao": "",
+      "imagem": "",
+      "inicio": "",
+      "termino": "",
+      "local": "",
+      "id": 14
+    }
+  ]
+}
