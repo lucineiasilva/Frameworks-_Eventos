@@ -1,8 +1,9 @@
 
-# Frameworks
+# Atividade de Frameworks - Eventos
 
-# Iniciar o projeto
+Rodar o projeto
 npm run dev
-# Carregar os dados cadastrados
+
+Conectar aos dados cadastrados
 json-server --port 3020 --watch db.json
 
